@@ -2894,11 +2894,11 @@
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
-				color: #000;
+				color: rgb(255, 255, 255);
 			}
 
 			.wrapper.style2 a {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
